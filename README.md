@@ -41,10 +41,10 @@ Other data to train the Tensorflow database were taken from [ELT](http://etlcdb.
 
 ## Technologies
 
-<p><img alt="Dart" src="https://img.shields.io/badge/Dart-2.13.4-03589b?style=for-the-badge&logo=dart"></p>
-<p><img alt="Flutter" src="https://img.shields.io/badge/Flutter-2.2.3-53c5f7?style=for-the-badge&logo=flutter"></p>
-<p><img alt="Python" src="https://img.shields.io/badge/Python-3.8.10-fadf5e?style=for-the-badge&logo=python"></p>
-<p><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-2.5.0-fadf5e?style=for-the-badge">
+<p><img alt="Dart" src="https://img.shields.io/badge/Dart-2.13.4-03589b?style=for-the-badge&logo=dart">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-2.2.3-53c5f7?style=for-the-badge&logo=flutter"></p>
+<p><img alt="Python" src="https://img.shields.io/badge/Python-3.8.10-fadf5e?style=for-the-badge&logo=python">
+<img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-2.5.0-fadf5e?style=for-the-badge">
 <img alt="FontForge" src="https://img.shields.io/badge/font forge-20201107-fadf5e?style=for-the-badge">
 <img alt="Pillow" src="https://img.shields.io/badge/pillow-7.0.0-fadf5e?style=for-the-badge">
 <img alt="scikit-image" src="https://img.shields.io/badge/scikit image-0.18.2-fadf5e?style=for-the-badge">
