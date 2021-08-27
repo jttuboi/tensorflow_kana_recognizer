@@ -31,7 +31,7 @@ Scripts 4, 5 and 6 are for compressing the images, training and generating the d
 
 I prepared the script to generate the database for hiragana and katakana, being 2 separate files, because when together they could give many false positives like the HE of hiragana and katakana.
 
-The project was based on the [jayndu](https://jaycoding.tech/tutorials/guides/efficient-sketching-app-using-flutter-icstum) and the [Hiragana recognizer app](https://github.com/thomasoca/hiragana_recognizer_app).
+The project was based on the [Drawzo](https://jaycoding.tech/tutorials/guides/efficient-sketching-app-using-flutter-icstum) and the [Hiragana recognizer app](https://github.com/thomasoca/hiragana_recognizer_app).
 
 The algorithm for generating the Tensorflow database was based on [Hiragana recognizer cnn](https://github.com/thomasoca/hiragana-recognizer-cnn).
 
